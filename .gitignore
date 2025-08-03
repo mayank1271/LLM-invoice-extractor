@@ -1,0 +1,19 @@
+# Ignore virtual environments
+cursor2/
+.venv/
+venv/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore environment variables file
+.env
+
+# Ignore IDE or OS specific files
+.DS_Store
+Thumbs.db
+
+# Cursor internal
+.cursor/
